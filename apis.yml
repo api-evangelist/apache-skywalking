@@ -1,0 +1,36 @@
+aid: apache-skywalking
+name: Apache SkyWalking
+description: >-
+  Apache SkyWalking is an open-source APM system that provides monitoring, tracing, and diagnosing capabilities for distributed systems in cloud native architectures. It supports auto-instrumentation for Java, .NET, Python, Go, Node.js, and PHP.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - APM
+  - Observability
+  - Tracing
+  - Monitoring
+  - Cloud Native
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/apache-skywalking/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: apache-skywalking:apache-skywalking-api
+    name: Apache SkyWalking API
+    description: >-
+      SkyWalking provides a GraphQL query API for trace, metrics, and log data, gRPC APIs for agent reporting, a REST API for health checks, and agent APIs for auto-instrumentation in Java, .NET, Python, Go, Node.js, and PHP.
+    humanURL: https://skywalking.apache.org/docs/
+    tags:
+      - GraphQL
+      - gRPC
+      - REST
+      - Tracing
+    properties:
+      - type: Documentation
+        url: https://skywalking.apache.org/docs/
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com

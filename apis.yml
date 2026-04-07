@@ -8,10 +8,10 @@ access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - APM
+  - Cloud Native
+  - Monitoring
   - Observability
   - Tracing
-  - Monitoring
-  - Cloud Native
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-

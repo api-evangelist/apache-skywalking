@@ -1,0 +1,13 @@
+{
+  "repo": "apache-skywalking",
+  "feeds": [
+    {
+      "source": "https://skywalking.apache.org/blog/",
+      "feed_url": "https://skywalking.apache.org/feed",
+      "saved": 10,
+      "title": "Apache SkyWalking \u2013 Apache SkyWalking"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:22:15Z"
+}

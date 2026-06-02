@@ -2,12 +2,20 @@
   "repo": "apache-skywalking",
   "feeds": [
     {
-      "source": "https://skywalking.apache.org/blog/",
+      "source": "https://skywalking.apache.org/feed",
       "feed_url": "https://skywalking.apache.org/feed",
-      "title": "Apache SkyWalking \u2013 Apache SkyWalking",
-      "saved": 44
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://skywalking.apache.org/",
+      "feed_url": "https://skywalking.apache.org/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
   "post_count": 54,
-  "fetched": "2026-05-17T20:20:35Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }

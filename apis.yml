@@ -113,28 +113,28 @@ common:
   url: https://skywalking.apache.org/community/
 - type: TermsOfService
   url: https://www.apache.org/licenses/
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-java
   title: Java Agent SDK
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-python
   title: Python Agent SDK
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-go
   title: Go Agent SDK
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-nodejs
   title: Node.js Agent SDK
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-php
   title: PHP Agent SDK
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-ruby
   title: Ruby Agent SDK
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-rust
   title: Rust Agent SDK
-- type: SDK
+- type: SDKs
   url: https://github.com/apache/skywalking-client-js
   title: JavaScript Browser Agent SDK
 - type: Features

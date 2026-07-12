@@ -97,6 +97,10 @@ apis:
     url: https://github.com/apache/skywalking-data-collect-protocol
 
 common:
+- type: VulnerabilityDisclosure
+  url: security/apache-skywalking-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/apache-skywalking-domain-security.yml
 - type: GitHubOrganization
   url: https://github.com/apache?q=skywalking
 - type: GitHubRepository

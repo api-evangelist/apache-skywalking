@@ -109,6 +109,10 @@ apis:
     url: https://github.com/apache/skywalking-data-collect-protocol
 
 common:
+- type: Releases
+  url: https://github.com/apache/skywalking-query-protocol/releases
+- type: CodeOfConduct
+  url: https://github.com/apache/.github/blob/main/.github/CODE_OF_CONDUCT.md
 - type: VulnerabilityDisclosure
   url: security/apache-skywalking-vulnerability-disclosure.yml
 - type: DomainSecurity

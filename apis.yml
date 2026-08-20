@@ -26,6 +26,15 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/apache-sky
 tags:
 - APM
 - Application Performance Monitoring
+- Cloud-Native
+- Distributed Tracing
+- Monitoring
+- Observability
+- Open-Source
+- Tracing
+tags_raw:
+- APM
+- Application Performance Monitoring
 - Cloud Native
 - Distributed Tracing
 - Monitoring

@@ -130,6 +130,8 @@ apis:
     url: https://github.com/apache/skywalking-data-collect-protocol
 
 common:
+- type: Website
+  url: https://www.apache.org/
 - type: Releases
   url: https://github.com/apache/skywalking-query-protocol/releases
 - type: CodeOfConduct
